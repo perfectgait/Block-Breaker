@@ -1,2 +1,2 @@
 # Block Breaker
-An Arcanoid clone
+An Arcanoid clone written in Unity.
